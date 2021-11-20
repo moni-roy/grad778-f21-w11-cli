@@ -1,8 +1,9 @@
 # GRAD 778 - Elements of Research Computing
 
-Module 11 - Version Control
-November 20, 2021
-Instructor: Jonathan Greenberg (jgreenberg@unr.edu)
+## Module 11 - Version Control
+
+- November 20, 2021
+- Instructor: Jonathan Greenberg (jgreenberg@unr.edu)
 
 Overview:
 
